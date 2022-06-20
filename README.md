@@ -7,6 +7,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-fauzan-rafi/](https://www.linkedin.com/in/muhammad-fauzan-rafi/)
 
 
+<!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzan-rafi&show_icons=true&locale=en" alt="fauzan-rafi" /></p>
+-->
 
 
